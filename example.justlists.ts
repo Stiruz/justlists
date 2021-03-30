@@ -114,12 +114,12 @@
             "logoURI":"https://coin.top/production/logo/TR3DLthpnDdCGabhVDbD3VMsiJoCXY3bZd.png"
         },
         {
-            "symbol":"HT",
-            "address":"TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h",
-            "chainId":1,
-            "decimals":18,
-            "name":"HuobiToken",
-            "logoURI":"https://coin.top/production/logo/TDyvndWuvX5xTBwHPYJi7J3Yq8pq8yh62h.png"
+            "symbol":"PHT",
+            "address":"TMsYCFU4VNeJqm3f1ghRvCcq7Xx48s26JY",
+            "chainId":1003095,
+            "decimals":2,
+            "name":"Phoneum",
+            "logoURI":"https://coin.top/production/upload/logo/1003095.png?t=1594771038316"
         }
     ],
     "logoURI":"https://justswap.io/favicon.ico",
