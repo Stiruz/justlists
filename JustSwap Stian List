@@ -1,0 +1,28 @@
+{
+    "name":"JustSwap Stian List",
+    "tokens":[
+        {
+       
+            "symbol":"PHT",
+            "tokenid":"1003095",
+            "chainId":1,
+            "decimals":2,
+            "name":"Phoneum",
+            "logoURI":"https://coin.top/production/upload/logo/1003095.png?t=1594771038316"
+       },
+       {
+            "symbol":"PHT",
+            "address":"TGSooaWQ3XDbVbUx9iSvViidd5NMev4zQN",
+            "chainId":1,
+            "decimals":2,
+            "name":"Phoneum",
+            "logoURI":"https://coin.top/production/upload/logo/TGSooaWQ3XDbVbUx9iSvViidd5NMev4zQN.png?t=1612501671691"
+    ],
+    "logoURI":"https://justswap.io/favicon.ico",
+    "version":{
+        "patch":1,
+        "major":1,
+        "minor":0
+    },
+    "timestamp":1611147166000
+}
